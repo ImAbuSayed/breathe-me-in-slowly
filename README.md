@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-me-in-slowly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Breathe Me In Slowly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in-slowly/) |
+| **Get License** | [Music Rights & Licensing for Breathe Me In Slowly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in-slowly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3139)
 
 ---
 
