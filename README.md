@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-me-in-slowly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Breathe Me In Slowly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in-slowly/) |
+| **Get License** | [Get a Licensing Quote for Breathe Me In Slowly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in-slowly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bf9fdc4540a78854765b8f56b957e916b4907072382d0c64d5461e1095a91786` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

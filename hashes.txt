@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Breathe Me In Slowly
+
+This log tracks the cryptographic history and versioning for the song **Breathe Me In Slowly** (breathe-me-in-slowly).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T02:13:10.886514 | `v1` | `bf9fdc4540a78854765b8f56b957e916b4907072382d0c64d5461e1095a91786` | `95929dd5be671d104115599d36e2190ba52380e985207461e024fec6dd0a7a95` | `2026-06-13_breathe-me-in-slowly-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
